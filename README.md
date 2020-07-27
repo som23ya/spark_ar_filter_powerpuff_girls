@@ -6,5 +6,4 @@ Install spark ar studio. Open filter in it. Switch to simulate touch option. Pla
 
 We can also test the filters by connecting a compatible phone to the laptop by usb debugging and download spark ar player app from google play store.
 
-(The filters can't be tested on instagram directly as they are not accepting new filters currently ).
 
